@@ -1,0 +1,1 @@
+{\n  "name": "playwright-cucumber-tests",\n  "version": "1.0.0",\n  "scripts": {\n    "test": "cucumber-js",\n    "playwright:test": "playwright test"\n  },\n  "dependencies": {\n    "@playwright/test": "latest",\n    "cucumber": "latest",\n    "typescript": "latest"\n  },\n  "devDependencies": {\n    "@types/cucumber": "latest",\n    "ts-node": "latest"\n  }\n}
